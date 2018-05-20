@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MirkoCristantiello/cvonline/issues"
   },
-  "homepage": "https://github.com/MirkoCristantiello/cvonline#readme"
+  "homepage": "https://github.com/MirkoCristantiello/cvonline#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
